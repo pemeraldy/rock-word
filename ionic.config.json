@@ -1,0 +1,7 @@
+{
+  "name": "rockword",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
